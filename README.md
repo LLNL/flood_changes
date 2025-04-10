@@ -2,4 +2,4 @@
 LLNL-DATA-2004605
 
 # License
-See the [CC-BY-4.0 license](CC-BY-4.0 license)
+See the CC-BY-4.0 license
